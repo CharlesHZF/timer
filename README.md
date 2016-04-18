@@ -22,3 +22,12 @@ class MyTask extends TimerTask {
 }
 
 ```
+
+###maven
+```xml
+<dependency>
+	<groupId>com.imporsource.timer</groupId>
+	<artifactId>importsource-timer</artifactId>
+	<version>0.0.1-SNAPSHOT</version>
+</dependency>
+```
